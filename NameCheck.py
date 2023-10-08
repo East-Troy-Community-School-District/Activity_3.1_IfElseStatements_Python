@@ -1,7 +1,8 @@
 '''
 Name Check
-1/4/2023
-Python I
+Pawelski
+10/8/2023
+Introduction to Computer Science
 
 Instructions:
 Run the program and try entering the name "Jimbo".

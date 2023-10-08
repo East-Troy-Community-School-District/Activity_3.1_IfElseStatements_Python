@@ -1,7 +1,8 @@
 '''
 Conditions Example 2
-1/4/2023
-Python I
+Pawelski
+10/8/2023
+Introduction to Computer Science
 
 Instructions:
 Check your work by running this program
