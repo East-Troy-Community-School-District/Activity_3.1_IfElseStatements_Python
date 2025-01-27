@@ -1,15 +1,18 @@
 '''
 Bigger Number
 Pawelski
-10/8/2023
-Introduction to Computer Science
+1/27/2025
 
 Instructions:
-Run the program and try entering a variety
-of numbers. What happens? Why? Give an example
-of two numbers that would display multiple
-messages. In your own words, describe how
-seperate if statements works.
+1.  Predict what the program will do. Check your
+    prediction by running the program a few times
+    and entering a variety of numbers.
+2.  Give an example of two numbers that would
+    display multiple messages.
+3.  How many if statements can a program contain?
+4.  Add a breakpoint on line 20 and step through the
+    program in debugging mode. Does the program check
+    each if statement? What does this tell you?
 '''
 
 number1 = int(input("Enter a number >> "))

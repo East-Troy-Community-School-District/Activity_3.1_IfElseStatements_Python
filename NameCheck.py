@@ -1,15 +1,18 @@
 '''
 Name Check
 Pawelski
-10/8/2023
-Introduction to Computer Science
+1/27/2025
 
 Instructions:
-Run the program and try entering the name "Jimbo".
-What happens? Why? Next, try entering the name
-"Felix". What happens? Why? Finally, try entering
-the name "jimbo". What happens? Why? In your own
-words, describe how an if statement works.
+1.  Predict what the program will do. Check your
+    prediction by running the program a few times
+    and entering a variety of names.
+2.  What name do you need to enter to see the message
+    "Welcome Jimbo, I hope you have a great day!"?
+3.  Try entering the name "jimbo". What happens? Why?
+4.  Modify the program so that it checks for your name
+    and prints the message with your name instead of
+    Jimbo's.
 '''
 
 name = input("Enter your name >> ")
