@@ -2,6 +2,7 @@
 Bigger Number
 Pawelski
 1/27/2025
+
 Instructions:
 1.  Predict what the program will do. Check your
     prediction by running the program a few times
